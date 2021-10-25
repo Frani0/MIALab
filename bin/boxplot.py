@@ -116,7 +116,7 @@ def main():
     # Configuration
     metric_to_compute = ('DICE', 'HDRFDST')
     structures_to_compute = ('Thalamus', )
-    experiment_paths = ('mia-result/2021-10-13-08-59-43', 'mia-result/2021-10-14-19-09-19')
+    experiment_paths = ('mia-result/2021-10-25-14-40-56', 'mia-result/2021-10-14-19-09-19')
     experiment_names = ('First Experiment', 'Second Experiment')
     plot_output_directory = './mia-result/'
     plot_title = ('Comparison of Experiments on Thalamus', )
